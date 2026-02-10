@@ -14,6 +14,11 @@
       "key": "HDhjUVEUI940VTVG",
       "deviceId": "0dba55fb31b035d5",
       "expiry": "2026-03-09"
+    },
+    {
+      "key": "4JdOzuTmxRLONvVC",
+      "deviceId": "2daac8b93df8c0a1",
+      "expiry": "lifetime"
     }
   ]
 }
