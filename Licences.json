@@ -34,6 +34,10 @@
       "key": "GUSPGbbSGdPjgOJD",
       "deviceId": "94637706b88af7a3",
       "expiry": "lifetime"
-    }
-  ]
+    },
+  {
+      "key": "HSfylPWNkzXebmGL",
+      "deviceId": "6b96f0aaf0b25b34",
+      "expiry": "2026-04-08"
+  }
 }
