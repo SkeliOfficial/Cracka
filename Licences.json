@@ -19,6 +19,11 @@
       "key": "4JdOzuTmxRLONvVC",
       "deviceId": "2daac8b93df8c0a1",
       "expiry": "lifetime"
+    },
+    {
+      "key": "cyGEbRcnYGSXLNyF",
+      "deviceId": "37d6fdab4269e44f",
+      "expiry": "2026-04-08"
     }
   ]
 }
