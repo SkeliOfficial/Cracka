@@ -39,6 +39,11 @@
       "key": "fNbRQJhcQlhHFRHq",
       "deviceId": "6b96f0aaf0b25b34",
       "expiry": "lifetime"
+    },
+    {
+      "key": "LGpPAmvjYaqiOLOL",
+      "deviceId": "fb27fae27af791e4",
+      "expiry": "lifetime"
     }
   ]
 }
